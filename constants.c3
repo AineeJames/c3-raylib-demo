@@ -1,0 +1,11 @@
+const usz BOXES_COUNT = 50;
+const usz WIN_W = 800;
+const usz WIN_H = 600;
+const usz MIN_BOX_SIZE = 10;
+const usz MAX_BOX_SIZE = 50;
+const usz GRAVITY = 10;
+const int MIN_VEL = -500;
+const int MAX_VEL = 500;
+const float BOUNCE_FACTOR = 0.9;
+const float EPSILON = 0.1;
+const float FRICTION = 0.98;
